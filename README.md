@@ -13,9 +13,10 @@
 git clone https://github.com/ADGVLOGS/StarWarsPythonASCII
 ````
 
-- 2. cd StarWarsPythonASCII
+- 2. Run Code
 
 ````
+cd StarWarsPythonASCII
 python3 app.py
 ````
 
